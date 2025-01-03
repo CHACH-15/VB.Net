@@ -1,0 +1,16 @@
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\bin\Debug\net8.0-windows\MycalculatorC.exe
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\bin\Debug\net8.0-windows\MycalculatorC.deps.json
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\bin\Debug\net8.0-windows\MycalculatorC.runtimeconfig.json
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\bin\Debug\net8.0-windows\MycalculatorC.dll
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\bin\Debug\net8.0-windows\MycalculatorC.pdb
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.Form1.resources
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.vbproj.GenerateResource.cache
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.AssemblyInfoInputs.cache
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.AssemblyInfo.vb
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.vbproj.CoreCompileInputs.cache
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.dll
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\refint\MycalculatorC.dll
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.pdb
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\MycalculatorC.genruntimeconfig.cache
+C:\Users\chahd\source\repos\MycalculatorC\MycalculatorC\obj\Debug\net8.0-windows\ref\MycalculatorC.dll
