@@ -1,0 +1,16 @@
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\bin\Debug\net8.0-windows\calculatClavier.exe
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\bin\Debug\net8.0-windows\calculatClavier.deps.json
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\bin\Debug\net8.0-windows\calculatClavier.runtimeconfig.json
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\bin\Debug\net8.0-windows\calculatClavier.dll
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\bin\Debug\net8.0-windows\calculatClavier.pdb
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.Form1.resources
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.vbproj.GenerateResource.cache
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.AssemblyInfoInputs.cache
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.AssemblyInfo.vb
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.vbproj.CoreCompileInputs.cache
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.dll
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\refint\calculatClavier.dll
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.pdb
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\calculatClavier.genruntimeconfig.cache
+C:\Users\chahd\Desktop\CHAHDACH\calculatClavier\calculatClavier\obj\Debug\net8.0-windows\ref\calculatClavier.dll
