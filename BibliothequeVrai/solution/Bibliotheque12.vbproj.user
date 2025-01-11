@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="afficherBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listesBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOgin_FOM.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
